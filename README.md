@@ -18,3 +18,5 @@ Optimized implementation of OMP algorithm with specific memory management, pipel
   
 ## Code Description
 **RISE_CodeDescription.pdf** describes the source code and different optimizations in detail.
+
+Please contact bita@ucsd.edu for more information.
