@@ -13,7 +13,7 @@ Implementation of Orthogonal Matching Pursuit (OMP) algorithm with no specific h
 ### OMPQR_optimized:
 Optimized implementation of OMP algorithm with specific memory management, pipelining, etc. to improve the throughput of the underlying system.
 
-<img src="https://github.com/Bitadr/RISE/blob/master/opt.PNG" width="100" height="50">
+<img src="https://github.com/Bitadr/RISE/blob/master/opt.PNG" width="300" height="50">
 
   
 ## Code Description
